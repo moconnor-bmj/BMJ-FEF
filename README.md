@@ -2,7 +2,7 @@
 
 Based on [Made Mistakes Jekyll](https://github.com/mmistakes/made-mistakes-jekyll)
 
-This is the source code of Made Mistakes, a personal blog and portfolio built with [Jekyll](http://jekyllrb.com) and a starter I call [Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll).
+Built with [Jekyll](http://jekyllrb.com) and a starter theme called [Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll).
 
 *Please note: this hasn't been completely "themed" like some of my other [Jekyll repos] and isn't GitHub Pages compatible. In some cases the Jekyll plugins may be safe to remove without breaking things while others may not fare as well.*
 
