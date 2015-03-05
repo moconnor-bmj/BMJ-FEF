@@ -6,7 +6,7 @@ categories: {{ dir }}
 excerpt:
 tags: []
 image:
-  feature:
-  teaser:
-  thumb:
+  feature: generic-feature.jpg
+  teaser: generic-teaser.jpg
+  thumb: generic-thumb.jpg
 ---
