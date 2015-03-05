@@ -1,52 +1,41 @@
 ---
 layout: article
-title: "About Michael Rose"
+title: "Page with sidebar & contact form"
 date: 2014-06-01
 modified: 20145-01-23
-excerpt: "Michael Rose is just another boring, tattooed, time traveling designer from Buffalo."
+excerpt: "BMJ-FEF is a (currently) a gallimaufry of stuff that will eventually make up a front end framework"
 image:
-  feature: about-feature.jpg
-  teaser: about-teaser.jpg
-  thumb: about-thumb.jpg
+  feature: generic-feature.jpg
+  teaser: generic-teaser.jpg
+  thumb: generic-thumb.jpg
 ads: false
 share: false
-sidebar: sidebar-about
+sidebar: sidebar-home
 ---
 
-Oh hey --- I'm Michael Rose, just another boring, tattooed, time traveling designer from Buffalo, New York. I'm into drawing [portraits of strangers]({{ site.url }}/articles/paperfaces-ipad-portrait-project.html) on an iPad, eating popcorn and [chicken wings](http://www.duffswings.com "Duff's Famous Wings"), watching dust collect on my [vinyl record collection](http://www.discogs.com/user/mmistakes/collection), and playing the occasional iOS game.
-
-When I'm not drawing on my iPad, releasing open source [Jekyll themes]({{ site.url }}/work/jekyll-themes/), or [building web stuff](http://ekowave.com), I work as an web designer and content admin for a global lab supply company. On any given day I could be developing and designing front-ends, landing pages, email newsletters, or massaging content in and out of a CMS with the help of HTML, CSS, and JavaScript.
-
-<figure>
-  <a href="{{ site.url }}{% post_url /paperfaces/2014-08-03-rosebuds-2-portrait %}"><img src="{{ site.url }}/images/paperfaces-rosebuds-2-900.jpg" alt="Everly and Chloe drawing"></a>
-  <figcaption>My 2 little rosebuds drawn with Paper by FiftyThree.</figcaption>
-</figure>
-
-And if that wasn't enough --- I'm the father of [twin girls]({{ site.url }}/tag/twins/) who just hit their toddler phase and a husband to a [subscription box addicted vegan](http://2littlerosebuds.com "Wendy Rose").
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
 
 ---
 
 ## About the Site
 
-So what does this all have to do with *made mistakes* and why did you name your website that? It vaguely has something to do with that whole happy accident thing, where a mistake can turn out to be something great and unplanned. But to be honest I was just looking for a short, memorable sounding domain name.
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. .
 
-In May of 2004 I purchased mademistakes.com, and threw up a Macromedia Flash splash screen (hey remember those?) while I worked on building out my portfolio. For the next couple of years I would experiment with various content management systems ([Movable Type](http://www.movabletype.org/) &rarr; [Textpattern](http://textpattern.com/) &rarr; [Wordpress](http://wordpress.org/) &rarr; [Indexhibit](http://www.indexhibit.org/)), developing minimalistic themes and learning what I could about HTML, CSS, Javascript, PHP, and MySQL databases.
-
-I've since decided to abandon using a CMS and utilize black magick and [Jekyll](http://jekyllrb.com/) to [generate flat files]({{ site.url }}{% post_url /articles/2012-03-19-going-static %}) for improved performance and security. Building all of the layouts, stylesheets, feeds, and assets from scratch was challenging at first, but the knowledge gained made it all worth it.
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
 
 ---
 
 ## Contact Me
 
-Have more questions? If they're related to creating art on an iPad I've likely answered them in the [Frequently Asked Questions]({{ site.url }}/faqs/) section of the website. Anything else --- short messages via Twitter work best.
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
 
-<a href="https://twitter.com/intent/tweet?screen_name=mmistakes" class="twitter-mention-button" data-size="large" data-related="mmistakes">Tweet to @mmistakes</a>
+<a href="#" class="twitter-mention-button" data-size="large" data-related="BMJTech">Tweet to @BMJTech</a>
 
 {% javascript vendor/wufoo %}
 
 Have something longer you want to ask me? Fill out the form below and I'll get back to you by email.
 
-<form id="form1" name="form1" class="wufoo  page" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate action="https://mademistakes.wufoo.com/forms/zr2w1zk1hbcjv0/#public">
+<form id="form1" name="form1" class="wufoo  page" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate action="#">
   <ul>
     <li id="foli7" class="notranslate">
       <label class="desc" id="title7" for="Field7"> Name </label>

@@ -24,13 +24,23 @@ $border-radius                : 5px;
 
 $white                        : #fff;
 $black                        : #000;
-$gray                         : #635960;
+$gray                         : #747678;
 
-$background-color             : mix($white, $gray, 80%);
+$background-color             : #f8f8f8;
 $body-color                   : $white;
 
 $text-color                   : mix($black, $gray, 25%);
 $caption-color                : mix($white, $text-color, 25%);
+
+$bmjBlue                      : #2A6EBB;
+$bmjBlueDark                  : mix($black, $bmjBlue, 20%);  
+$bmjBlueDarker                : mix($black, $bmjBlue, 40%);  
+$bmjBlueLight                 : mix($white, $bmjBlue, 10%);  
+$bmjBlueLighter               : mix($white, $bmjBlue, 25%);  
+$bmjBlueLightest              : mix($white, $bmjBlue, 50%);  
+$bmjBlueFade                  : mix($white, $bmjBlue, 10%);  
+$bmjBlueFader                 : mix($white, $bmjBlue, 25%);  
+$bmjBlueFadest                : mix($white, $bmjBlue, 50%);  
 
 $primary-color                : mix($black, $gray, 35%);
 $success-color                : mix($gray, #2ecc71, 15%);
@@ -40,8 +50,8 @@ $info-color                   : mix($gray, #3498db, 15%);
 
 $border-color                 : mix($white, $gray, 80%);
 
-$link-color                   : $danger-color;
-$link-color-hover             : mix($black, $danger-color, 20%);
+$link-color                   : $bmjBlue;
+$link-color-hover             : mix($black, $bmjBlue, 20%);
 
 $table-border-color           : $border-color;
 $table-border                 : 1px solid $table-border-color;

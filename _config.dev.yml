@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Made Mistakes
-description: "Personal website of designer slash illustrator Michael Rose."
-logo: site-logo.png
+title: BMJ FE Prototyper
+description: "A Rapid Prototyping Framework"
+logo: bmj-logo.png
 teaser: default-teaser.png
 locale: en_US
 url: http://localhost:4000

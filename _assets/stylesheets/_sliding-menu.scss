@@ -47,7 +47,7 @@
   z-index: 5;
   box-sizing: border-box;
   &:hover {
-    background: $black;
+    background: $bmjBlue;
   }
   transition: $sliding-menu-animation;
   &.slide {
@@ -85,7 +85,7 @@
   }
   transform: translateX(100%);
   transition: $sliding-menu-animation;
-  background: $sliding-menu-background;
+  background: $bmjBlue;
   z-index: 5;
   overflow-y: auto;
   overflow-x: hidden;

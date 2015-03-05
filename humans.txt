@@ -8,9 +8,8 @@ _  ________ ____   _  ______________  _________
 
 /* ABOUT */
 
-  Designer:     Michael Rose
-  Twitter:      @mmistakes
-  Location:     Buffalo, New York USA
+  Designer:     Michael OConnor
+  Twitter:      @mcocdesign
 
 
 /* SITE */
