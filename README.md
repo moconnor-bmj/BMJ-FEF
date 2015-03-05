@@ -1,6 +1,6 @@
 # Front End Prototyping (test drive)
 
-## based [Made Mistakes Jekyll](https://github.com/mmistakes/made-mistakes-jekyll)
+Based on [Made Mistakes Jekyll](https://github.com/mmistakes/made-mistakes-jekyll)
 
 This is the source code of Made Mistakes, a personal blog and portfolio built with [Jekyll](http://jekyllrb.com) and a starter I call [Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll).
 
