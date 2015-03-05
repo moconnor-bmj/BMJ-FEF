@@ -159,7 +159,7 @@ To set what links appear in the top navigation edit `_data/navigation.yml`. Use 
   <span class="l-Scalar-Plain">image</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">300x200.gif</span>
 
 <span class="p-Indicator">-</span> <span class="l-Scalar-Plain">title</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">BMJ-FEF</span>
-  <span class="l-Scalar-Plain">url</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">http://mademistakes.com</span>`</pre></div>
+  <span class="l-Scalar-Plain">url</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">http://bmj.com</span>`</pre></div>
 
 To set what links appear in the footer edit `_data/footer.yml`. Use the following format for each link:
 
@@ -167,7 +167,7 @@ To set what links appear in the footer edit `_data/footer.yml`. Use the followin
   <span class="l-Scalar-Plain">url</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">/subscribe/</span>
 
 <span class="p-Indicator">-</span> <span class="l-Scalar-Plain">title</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">External Page</span>
-  <span class="l-Scalar-Plain">url</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">http://mademistakes.com</span>`</pre></div>
+  <span class="l-Scalar-Plain">url</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">http://bmj.com</span>`</pre></div>
 
 * * *
 
@@ -257,11 +257,6 @@ Create a [Disqus](http://disqus.com) account and change `disqus-shortname` in `_
 
 Social sharing links for Twitter, Facebook, and Google+ are included on posts/pages using the `article` and `media` layouts by default. To hide them on specific posts or pages add `share: false` to the YAML Front Matter. If you’d like to use different social networks modify `_includes/share-this.html` to your liking. Icons are set using [Font Awesome](http://fontawesome.io/).
 
-<figure>
-  ![social sharing links screenshot](//mmistakes.github.io/skinny-bones-jekyll/images/social-sharing-links-screenshot.jpg)
-  <figcaption>Share links appear the below author details block.</figcaption>
-</figure>
-
 * * *
 
 ### Pages
@@ -328,12 +323,5 @@ Please - lots of contributions - just fork the repo and do your worse! Alert to 
 ## License
 
 This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. 
-
-<div class="footnotes">
-
-1.  If you decide to use a protocol-relative URL know that it will most likely break sitemap.xml that the Jekyll-Sitemap gem creates. If a valid sitemap matters to you I’d suggest [creating your own sitemap.xml](http://davidensinger.com/2013/03/generating-a-sitemap-in-jekyll-without-a-plugin/) and apply some Liquid logic to prepend links to posts/pages with `https:`. [↩](#fnref:protocol)
-
-2.  If you’re using GitHub Pages to host your site be aware that plugins are disabled. You’ll need to build your site locally and then manually deploy if you want to use this sweet plugin. [↩](#fnref:plugins)
-</div>
 
 * * *

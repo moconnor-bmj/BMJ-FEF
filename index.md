@@ -37,9 +37,9 @@ I’ve used a few tools over the years and, while I’m not out to find the very
 
 The framework also includes a [styleguide](http://localhost:4000/style-guide/) which can be customised as necessary and sit under our core 'living stylguide' for new products or features. This was a happy byproduct of customising this framework. It offered the opportunity to work from the ground up and re-examine our current online styleguide. More on that later... 
 
-### We are Control Freaks
+### Another reason...
 
-The real reason for wanting to explore the possibilities of a prototyping framework is control. Designers are control freaks (aka disgruntled observationalists) and taming design in such a large organisation is a Sisyphean task. The ultimate with this is that our core products begin to align in terms of the user interface, experience and engagement.
+Another reason for wanting to explore the possibilities of a prototyping framework is control. Designers are control freaks (aka disgruntled observationalists) and taming design in such a large organisation is a Sisyphean task. The ultimate with this is that our core products begin to align in terms of the user interface, experience and engagement.
 
 ## What's this about then?
 

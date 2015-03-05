@@ -6,8 +6,8 @@
    Typography related variables
    ========================================================================== */
 
-$base-font                    : Georgia, Times, "Times New Roman", serif;
-$heading-font                 : Lato, Calibri, Arial, sans-serif;
+$base-font                    : Helvetica, Georgia, Times, "Times New Roman", serif;
+$heading-font                 : interface, Lato, Calibri, Arial, sans-serif;
 $caption-font                 : $base-font;
 $code-font                    : monospace;
 $alt-font                     : $heading-font;
@@ -26,10 +26,10 @@ $white                        : #fff;
 $black                        : #000;
 $gray                         : #747678;
 
-$background-color             : #f8f8f8;
+$background-color             : #ffffff;
 $body-color                   : $white;
 
-$text-color                   : mix($black, $gray, 25%);
+$text-color                   : #333333;
 $caption-color                : mix($white, $text-color, 25%);
 
 $bmjBlue                      : #2A6EBB;

@@ -1,7 +1,7 @@
 # Footer navigation links
 
-- title: Home
-  url: /style-guide/
-
 - title: About
   url: /about/
+
+- title: Style guide
+  url: /style-guide/
